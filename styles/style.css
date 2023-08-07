@@ -9,43 +9,32 @@ html, body{
     height: 100%;
 }
 
-
-#car1{
-    width: 100px;
-    height: 120px;
-    background-color: red;
+#box{
+    display: flex;
+    width: 500px;
+    justify-content: space-between;
+    align-items: center;
+    height: 500px;
+    background-color: grey;
 }
 
-#car2{
-    position: absolute;
-    top: 10%;
-    left: 40%;
+
+#box1{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(135, 54, 54);
+}
+
+
+#box2{
     width: 110px;
-    height: 90px;
+    height: 100px;
     background-color: blue;
 }
 
-#car3{
-    width: 130px;
-    height: 110px;
-    background-color: green;
-}
 
-#box{
-    position: relative;
-    width: 300px;
-    height: 300px;
-    background-color: red;
-
-}
-
-#box1{
-    position: absolute;
-    left: 40%;
+#box3{
     width: 100px;
     height: 100px;
     background-color: yellow;
 }
-
-
-
