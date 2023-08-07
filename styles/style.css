@@ -17,6 +17,11 @@ html, body{
     height: 500px;
     background-color: grey;
 }
+#car1{
+    width: 100px;
+    height: 120px;
+    background-color: red;
+}
 
 
 #box1{
