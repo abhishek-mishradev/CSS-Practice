@@ -10,16 +10,26 @@ html, body{
 }
 
 
-
-p{
-    color: blue;
+#car1{
+    width: 100px;
+    height: 120px;
+    background-color: red;
 }
 
-#main{
-    width: 100%;
-    height: 100%;
-    background-color: antiquewhite;
-    background-size: cover;
-    background-position: center;
-    background-image: url(https://images.unsplash.com/photo-1656133440919-0775929dc15a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80);
+#car2{
+    position: absolute;
+    top: 10%;
+    left: 40%;
+    width: 110px;
+    height: 90px;
+    background-color: blue;
 }
+
+#car3{
+    width: 130px;
+    height: 110px;
+    background-color: green;
+}
+
+
+
