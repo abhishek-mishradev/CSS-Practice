@@ -15,6 +15,7 @@ html, body{
     align-items: center;
     height: 500px;
     background-color: grey;
+    position: relative;
 }
 #car1{
     width: 100px;
